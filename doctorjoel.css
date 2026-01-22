@@ -1,0 +1,139 @@
+.new {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    align-items: center;
+    display: flex;
+}
+
+.erd {
+    margin-left: 40px;
+    color: green;
+}
+
+.name {
+    margin-left: 80px;
+    color: black;
+    text-decoration: none;
+}
+
+.image {
+    background-image: url("download (3).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    background: linear-gradient(rgba(4, 4, 4, 0.5), rgba(12, 12, 12, 0.5)),
+        url("download (3).jpeg") no-repeat center center/cover;
+}
+
+.erd:hover {
+    color: black;
+}
+
+.name:hover {
+    text-decoration: underline;
+    text-decoration-color: green;
+    ;
+}
+
+.fish {
+    color: white;
+    margin-left: 60px;
+    padding-top: 30px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.you{
+    margin-left: 60px;
+    padding-top: 10px;
+    font-size: 30px;
+    color: white;
+}
+.i{
+    border-radius:50px ;
+    background-color: green;
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+    
+}
+.red{
+    border: 1px solid green;
+    border-radius: 50px;
+    margin-left: 20px;
+    padding: 20px;
+   background-color:transparent;
+   color: green; 
+}
+.div{
+    
+    float: right;
+    width: 400px;
+    height: 500px;
+    letter-spacing: 1px;
+   
+}
+.yut{
+    border-radius: 50px;
+    background-color: green;
+    color: beige;
+    margin-top: 60px;
+    font-size:20px;
+    padding: 20px;
+   
+}
+.ert{
+    background-color: rgb(227, 208, 184);
+    height: 700px;
+    width: 1200px;
+}
+.rt{
+    text-align: center;
+    padding-top:40px;
+}
+.babba{
+    height:700px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+}
+.we{
+    background-color: aliceblue;
+    height: 289px;
+    width: 120px;
+    padding: 50px;
+    border-radius:10px;
+    margin: 50px;
+}
+.rty{
+    color: rgb(4, 112, 4);
+    font-size: x-large;
+    font-weight: 400px;
+    padding-bottom: 50px;
+}
+.cft{
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    display: flex;
+}
+.vbx{
+    background-color: whitesmoke;
+    height: 289px;
+    width: 500px;
+    padding: 40px;
+    margin-right: 70px;
+
+}
+.tyr{
+    padding: 40px;
+
+}
+.tyu{
+    display: flex;
+    padding: 50px;
+    padding-left: 20px;
+}
+
+
